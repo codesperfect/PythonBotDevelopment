@@ -6,7 +6,7 @@ from telebot import types
 import random
 
 #token for your Bot
-TOKEN = 'Your Bot Token'
+TOKEN = '933386576:AAEBvLh5fHS9mpYH_yZp1C6ybhYJV3T02HI'
 bot = telebot.TeleBot(TOKEN)
 
 #adding scores for Game bot
